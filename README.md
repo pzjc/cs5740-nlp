@@ -1,2 +1,2 @@
-# nlp
-assignments of CS5740 Natural Language Processing
+# Natural Language Processing
+Some practice on NLP algorithms
